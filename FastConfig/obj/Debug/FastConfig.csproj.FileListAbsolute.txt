@@ -1,0 +1,5 @@
+c:\users\akscorp\documents\visual studio 2017\Projects\FastConfig\FastConfig\bin\Debug\FastConfig.exe
+c:\users\akscorp\documents\visual studio 2017\Projects\FastConfig\FastConfig\bin\Debug\FastConfig.pdb
+c:\users\akscorp\documents\visual studio 2017\Projects\FastConfig\FastConfig\obj\Debug\FastConfig.csprojResolveAssemblyReference.cache
+c:\users\akscorp\documents\visual studio 2017\Projects\FastConfig\FastConfig\obj\Debug\FastConfig.exe
+c:\users\akscorp\documents\visual studio 2017\Projects\FastConfig\FastConfig\obj\Debug\FastConfig.pdb
